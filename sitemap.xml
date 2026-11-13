@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Main Portfolio -->
+    <url>
+        <loc>https://alifeffendi.github.io/alif-effendi-portfolio/</loc>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Project: Loafy Sunnie -->
+    <url>
+        <loc>https://alifeffendi.github.io/alif-effendi-portfolio/projects/loafy-sunnie.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Project: Regional Spatial Analysis -->
+    <url>
+        <loc>https://alifeffendi.github.io/alif-effendi-portfolio/projects/regional-spatial.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Project: Technical Design -->
+    <url>
+        <loc>https://alifeffendi.github.io/alif-effendi-portfolio/projects/technical-design.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+</urlset>

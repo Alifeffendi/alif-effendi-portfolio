@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alifeffendi.github.io/alif-effendi-portfolio/sitemap.xml
